@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is V Suhas 
+I am currently studying second year undergraduation in MOTILAL NEHRU NATIONAL INSTITUTE OF TECHNOLOGY[MNNIT] .
+My current Branch is Electronics and Communication Engineering (ECE).
