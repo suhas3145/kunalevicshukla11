@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vsuhas314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vsuhas314" height="30" width="40" /></a>
-<a href="https://instagram.com/suhas_3145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhas_3145" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunalevicshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vsuhas314" height="30" width="40" /></a>
+<a href="https://instagram.com/kunalevicshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhas_3145" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/not_the_guy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="not_the_guy" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/suhas314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="suhas314" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/suhas3145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suhas3145" height="30" width="40" /></a>
