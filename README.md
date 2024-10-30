@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kunal shukla </h1>
+<h1 align="center">Hi 👋, I'm V Suhas </h1>
 <h3 align="center">I am a passionate Web developer....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhas3145&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
-- 📫 How to reach me **kunalkumarshukla2002@@gmail.com**
+- 📫 How to reach me **suhas3145@@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
